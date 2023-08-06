@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d5437f46","path":"/guide/card.html","title":"Using a layout","lang":"en-US","frontmatter":{"title":"Using a layout","layout":"CustomLayout"},"headers":[],"git":{"updatedTime":1691291261000,"contributors":[{"name":"Chi-hung Wen","email":"wen00033@algonquinlive.com","commits":1}]},"filePathRelative":"guide/card.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-24af2ca6","path":"/guide/variations.html","title":"Variation rules 🙌","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1691291261000,"contributors":[{"name":"Chi-hung Wen","email":"wen00033@algonquinlive.com","commits":1}]},"filePathRelative":"guide/variations.md"}');export{a as data};
